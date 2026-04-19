@@ -1,4 +1,4 @@
-<h2 align="left">Hello World! I'm Abigail - an aspiring Software Developer from Dubai, UAE.</h2>
+<h2 align="left">Hello World! I'm Abigail - an aspiring Software Developer</h2>
 
 ###
 
