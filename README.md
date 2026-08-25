@@ -1,4 +1,4 @@
-<h2 align="left">Hello World! I'm Abigail - an aspiring Software Developer</h2>
+<h2 align="left">Hello World! I'm Abigail - an aspiring ML Engineer</h2>
 
 ###
 
